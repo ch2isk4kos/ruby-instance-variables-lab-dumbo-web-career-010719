@@ -6,3 +6,5 @@ class Dog
 
 end
 
+snoop = Dog.new
+snoop.dog_name
